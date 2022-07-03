@@ -23,3 +23,9 @@ while sign:
         sign=False
 print("go")        
     
+#########################################
+while True:
+    light =input("input traffic lihgt color: ")
+    if light=="blue" :
+        break
+print("go")        
